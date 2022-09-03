@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>br.com.concrete</groupId>
-	<artifactId>concrete</artifactId>
+	<groupId>br.com.samsung</groupId>
+	<artifactId>samsung</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>ConcreteDesafioMaven</name>
-	<description>Desafio Concrete Solutions</description>
+	<name>samsung-evaluation-api</name>
+	<description>samsung-evaluation-api</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
